@@ -1,6 +1,6 @@
 # seekproject
 
-The purpose of the report is to identify the key skills required to become a data analyst, based on job requirements posted by the employers on www.Seek.com.
+The purpose of the report is to identify the key skills required to become a data analyst, based on job requirements posted by the employers on https://www.seek.com.au/.
 
 data source: Seek
 Analytical Tools: Python, SQL, Power BI
