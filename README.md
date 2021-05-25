@@ -10,4 +10,5 @@ The main processes could be separated into below steps:
 2. Data Analysis: using Python NLP library (Spacy) to identify "big words" and using SQL to analyse
 3. Reporting and Visualisation: Power BI
 
-Final Report and back-end Query are attached for reference.
+Final Report and Codes are attached for reference.
+
